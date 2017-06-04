@@ -1,0 +1,5 @@
+[run]
+source = hubble2
+omit =
+     site-packages
+     tests
